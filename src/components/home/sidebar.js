@@ -100,7 +100,7 @@ function SidebarLinear() {
                 </div>
             </NavItem>
             <hr/>
-            <p>View resume <Link to={'https://drive.google.com/file/d/1U-jKZ3nPpcR4k_dk2KBPh87_DE7aHqjv/view?usp=drive_link'} className='text-black'><Download/></Link></p>
+            <p>View resume <Link to={'https://drive.google.com/file/d/1YPcX9rGkinuNWSiFTM1HkdYpwl1g6haq/view?usp=sharing'} className='text-black'><Download/></Link></p>
             <hr/>
             <div className="row px-3 pb-3">
               <Link to={'https://www.linkedin.com/in/ogbonna-sundayj/'}
